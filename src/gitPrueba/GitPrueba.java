@@ -6,6 +6,7 @@ public class GitPrueba {
 		System.out.println("Esto es una prueba de GitHub en Eclipse");
 		System.out.println("Esto es una modificación");
 		System.out.println("Esto es otra modificacion");
+
 	}
 
 }
